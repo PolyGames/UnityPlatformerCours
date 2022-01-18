@@ -1,6 +1,8 @@
 # UnityPlatformer - Cours Unity pour débutants par Poly Games
 
 ## Introduction
+Le but de ce tutoriel est de montrer la base de Unity pour ceux qui ne l'ont jamais utilisé. Certains aspects sont simplifiés ou pas nécessairement faits de la manière la plus optimale possible. Le but est de faire un prototype qui est suffisamment simple, mais qui aborde une bonne variété de concepts pertinents et qui ne compromet pas trop la qualité en faveur de la simplicité. Par exemple, le prototype est simpliste, mais une particule ne passe pas à travers le sol, le joueur n'accélère pas instantanément à sa vitesse terminale et un objet ramassé ne fait pas que disparaitre instantanément. L'immersion du joueur est facile à briser, c'est pourquoi je crois qu'il est important de penser à ces problèmes qui peuvent être parfois faciles à résoudre mais qui devraient être pris en considération dès le début de l'apprentissage, peu importe l'engin utilisé.
+
 Pour commencer avec Unity et faire un projet initial, je suggère fortement d'utiliser le Unity Hub. Ce projet a été créé initialement avec la version 2021.1.17f1. Quand vous faites "New Project", vous pouvez sélectionner le template "3D" et faire "Create Project". 
 
 #### Interface
