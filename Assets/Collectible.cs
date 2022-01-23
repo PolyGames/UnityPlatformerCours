@@ -8,13 +8,11 @@ public class Collectible : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Animator.Play("Collect");
-        Debug.Log("Playing Collect animation");
+        Animator.SetBool("IsCollected", true);
     }
 
     public void RemoveCollectible()
     {
         Destroy(gameObject);
-
     }
 }
